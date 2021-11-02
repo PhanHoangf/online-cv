@@ -14,8 +14,7 @@ sidebar:
     # Sidebar links
     email: hoangphan.hazel@gmail.com
     phone: 0769845008
-    website: www.linkedin.com/in/phan-thanh-ho%C3%A0ng-92ab631b1/ #do not add http://
-    linkedin: Phan Thanh Hoàng
+    linkedin: phan-thanh-hoàng-92ab631b1
     github: PhanHoangf
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -48,28 +47,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Software Engineering
+      university: University of Information and Technology VNU-HCM
+      time: 2017 - present
 experiences:
     - role: Lead Developer
       time: 2015 - Present
