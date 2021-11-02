@@ -13,12 +13,9 @@ sidebar:
 
     # Sidebar links
     email: hoangphan.hazel@gmail.com
-    phone: 0769845008
+    phone: (+84)769845008
     linkedin: phan-thanh-hoàng-92ab631b1
     github: PhanHoangf
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://resume.io/r/NZm39RV8p
 
     languages:
       - idiom: Vietnamese
@@ -40,12 +37,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - 1 year experienced working as a Frontend and Backend for Ant-tech Company
 education:
     - degree: Software Engineering
       university: University of Information and Technology VNU-HCM
