@@ -55,7 +55,7 @@ experiences:
       - Contribute to release Projects.
 projects:
   - role: Frontend Developer
-    time: 7/2020 - Present
+    time: July 2020 - Present
     name: Polymate
     details: |
       - Free social network & share photos, videos, texts and geolocation posts live
@@ -68,8 +68,33 @@ projects:
         * MongoDb, NestJs
         * Docker
 
-pet-project:
-  title: Pet Projects
+  - role: Frontend Developer
+      time: january 2020 - may 2021
+      name: Joynit
+      details: |
+        - Managing a calendar, inviting and communicating becomes child's play. Easy to use.
+        - My responsibilities:
+          * Working directly with France customer to get requirement about the projects
+          * Maintain BE
+          * Maintain UI & fix bug for Webapp
+        - Technologies:
+          * Angular10
+          * MongoDb, NestJs, GraphQl
+
+  - role: Frontend & Backend Developer
+      time: may 2020 - present
+      name: AppeBike
+      details: |
+        - Hiring an electric bicycle with application.
+          Appebike is a SaaS (Software as a Service) system that allows multiple businesses to create their own applications
+          on the Flexiplus system. The system consists of two main parts: Flexiplus Admin and Flexiplus Enterprise
+        - My responsibilities:
+          * Maintain BE
+          * Maintain Webadmin
+        - Technologies:
+          * Angular10
+          * MongoDb, NestJs
+          * Docker, Docker-compose, Docker-swarm, Portainer
 
 #publications:
 #    title: Publications
