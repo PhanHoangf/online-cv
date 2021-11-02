@@ -62,7 +62,12 @@ projects:
   assignments:
     - title: Polymate
       time: December 2020 - present
-      tagline: "Free social network app & share photos, videos, texts and geolocation posts live"
+      tagline: |
+      "Free social network app & share photos, videos, texts and geolocation posts live"
+      "My responsibilities
+          - Work directly with France customer to understand the requirements of the project and also help them chaging requirements.
+          - Maintain and add new feature to Web-admin
+          - Maintain Backend"
       details:
         - My responsibilities:
             - Work directly with France customer to understand the requirements of the project and also help them chaging requirements.
