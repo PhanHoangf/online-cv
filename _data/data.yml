@@ -62,9 +62,7 @@ projects:
   assignments:
     - title: Polymate
       time: December 2020 - present
-      tagline: |
-      "Free social network app & share photos, videos, texts and geolocation posts live" |
-      "My responsibility"
+      tagline: "Free social network app & share photos, videos, texts and geolocation posts live"
 
     - title: AppeBike
       link: "#"
