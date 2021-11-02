@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Phan Thanh Hoàng
-  tagline: Front-end Developer with 1 year experience in Angular. I also have knowledge about ReactJs, NodeJs, MongoDb and NestJs framework, a litte bit about Docker, Docker-compose. Besides, I enjoy learning new technologies that your company required.
+  tagline: I'm a Front-end Developer with 1 year experience in Angular. I also have knowledge about ReactJs, NodeJs, MongoDb and NestJs framework, a litte bit about Docker, Docker-compose. Besides, I enjoy learning new technologies that your company required.
   avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -44,7 +44,7 @@ education:
     time: 2017 - present
 experiences:
   - role: Frontend Developer
-    time: 7/2020 - Present
+    time: July 2020 - Present
     company: Ant-tech Company, Ho Chi Minh City
     details: |
       - This is my first company where i learned every thing about real life project.
@@ -55,7 +55,7 @@ experiences:
       - Contribute to release Projects.
 projects:
   - role: Frontend Developer
-    time: July 2020 - Present
+    time: January 2020 - Present
     name: Polymate
     details: |
       - Free social network & share photos, videos, texts and geolocation posts live
@@ -69,7 +69,7 @@ projects:
         * Docker
 
   - role: Frontend Developer
-    time: january 2020 - may 2021
+    time: January 2020 - may 2021
     name: Joynit
     details: |
       - Managing a calendar, inviting and communicating becomes child's play. Easy to use.
@@ -82,7 +82,7 @@ projects:
         * MongoDb, NestJs, GraphQl
 
   - role: Frontend & Backend Developer
-    time: may 2020 - present
+    time: May 2020 - present
     name: AppeBike
     details: |
       - Hiring an electric bicycle with application.
@@ -123,22 +123,17 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 80%
 
     - name: Angular
-      level: 70%
 
     - name: HTML5 & CSS
-      level: 80%
 
     - name: NestJs Framework
-      level: 70%
 
     - name: Docker
-      level: 50%
 
     - name: NodeJs & Express
-      level: 70%
 
     - name: MongoDb
-      level: 70%
+
+    - name: Object Oriented Programming
