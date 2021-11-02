@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Phan Thanh Hoàng
-  tagline: I'm a Front-end Developer with 1 year experience in Angular. I also have knowledge about ReactJs, NodeJs, MongoDb and NestJs framework, a litte bit about Docker, Docker-compose. Besides, I enjoy learning new technologies that your company required.
+  tagline: Front-end Developer
   avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -37,7 +37,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    - 1 year experienced working as a Frontend and Backend for Ant-tech Company
+    - I'm a Front-end Developer with 1 year experience in Angular. I also have knowledge about ReactJs, NodeJs, MongoDb and NestJs framework, a litte bit about Docker, Docker-compose. Besides, I enjoy learning new technologies that your company required.
 education:
   - degree: Software Engineering
     university: University of Information and Technology VNU-HCM
