@@ -58,12 +58,15 @@ projects:
     time: 7/2020 - Present
     name: Polymate
     details: |
-      - This is my first company where i learned every thing about real life project.
-      How to use git and how to cooperate with my teamate on a big project.
-      Working and learning every related to Javascript.
-      - Working directly with customer from French to get requirement about the projects
-      - Maintaince Frontend and Backend projects.
-      - Contribute to release Projects.
+      - Free social network & share photos, videos, texts and geolocation posts live
+      - My responsibilities:
+        * Working directly with France customer to get requirement about the projects
+        * Maintain BE
+        * Maintain Webadmin
+      - Technologies:
+        * Angular10
+        * MongoDb, NestJs
+        * Docker
 
 pet-project:
   title: Pet Projects
